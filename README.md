@@ -1,7 +1,5 @@
-# ML-Network-Intrusion-Detection-Research
-Machine learning research project.
-
 # ML Network Intrusion Detection Research
+Machine learning research project.
 
 ## Status
 Research project — In progress
